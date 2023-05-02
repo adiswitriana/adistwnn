@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adistwnn
-- 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning FrontEnd & Back-End Development
+- 👋 Hi, I’m Adi Setiawan Witriana, just call me "Adi"
+- 👀 I’m interested in FullStack Web Design and Development
+- 🌱 I’m currently learning Fron-tEnd & Back-End Development
 
 <!---
 adistwnn/adistwnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
