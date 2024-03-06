@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adi Setiawan Witriana, just call me "Adi"
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Front-End Development
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning Front-End Engineer
 
 <!---
 adiswitriana/adiswitriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
